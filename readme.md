@@ -8,3 +8,6 @@ this repository is a leetcode problem solutions record
 
 - [26.Remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)  
     [solution](./src/26.Remove_duplicate_from_array/main.go)
+
+- [114.flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)  
+    [solution](./src/114.flatten-binary-tree-to-linked-list/main.go)
